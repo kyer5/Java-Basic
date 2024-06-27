@@ -4,7 +4,6 @@ public class MusicPlayerMain3 {
 
     public static void main(String[] args) {
         MusicPlayerData data = new MusicPlayerData();
-
         // 음악 플레이어 켜기
         on(data);
         // 볼륨 증가
