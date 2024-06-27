@@ -1,6 +1,7 @@
 package oop1.ex;
 
 public class Account {
+
     int balance;
 
     void deposit(int amount) {
