@@ -5,7 +5,7 @@ public class MethodChange1 {
         int a = 10;
         System.out.println("메서드 호출 전: a = " + a);
         changePrimitive(a);
-        System.out.println("메서드 호출 전: a = " + a);
+        System.out.println("메서드 호출 후: a = " + a);
     }
 
     static void changePrimitive(int x) {
