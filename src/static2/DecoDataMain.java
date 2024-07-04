@@ -22,6 +22,6 @@ public class DecoDataMain {
         data3.staticCall();
 
         // 클래스를 통한 접근
-        staticCall();
+        DecoData.staticCall();
     }
 }
